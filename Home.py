@@ -9,6 +9,8 @@ st.page_link("pages/1_Layout.py", label="Layout", icon="1️⃣")
 st.page_link("pages/2_Input.py", label="Input", icon="2️⃣")
 st.page_link("pages/3_Data.py", label="Data", icon="3️⃣")
 st.page_link("pages/4_Button.py", label="Button", icon="4️⃣")
+st.page_link("pages/5_EchoBot.py", label="Echo Bot", icon="5️⃣")
+st.page_link("pages/6_Chatbot.py", label="Chatbot", icon="6️⃣")
 
 radio = st.radio(
     "Select Your Option",
